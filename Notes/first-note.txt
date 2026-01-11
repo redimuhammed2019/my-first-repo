@@ -1,1 +1,2 @@
-My first local Git change.
+
+Learning Git with real examples.
